@@ -62,7 +62,7 @@
     {
         "id": 11,
         "name": "Johnny Dogs",
-        "image": ".images/johnny-dogs.jpg",
+        "image": "./images/johnny-dogs.jpg",
         "clicked": false
     },
     {
