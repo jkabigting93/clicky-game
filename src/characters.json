@@ -2,62 +2,74 @@
     {
         "id": 1,
         "name": "Tommy Shelby",
-        "image": "../public/images/tommy-shelby.jpg"
+        "image": "../public/images/tommy-shelby.jpg",
+        "clicked": false
     },
     {
         "id": 2,
         "name": "Arthur Shelby",
-        "image": "../public/images/arthur-shelby.jpg"
+        "image": "../public/images/arthur-shelby.jpg",
+        "clicked": false
     },
     {
         "id": 3,
         "name": "John Shelby",
-        "image": "../public/images/john-shelby.jpg"
+        "image": "../public/images/john-shelby.jpg",
+        "clicked": false
     },
     {
         "id": 4,
         "name": "Polly Gray",
-        "image": "../public/images/polly-gray.png"
+        "image": "../public/images/polly-gray.png",
+        "clicked": false
     },
     {
         "id": 5,
         "name": "Michael Gray",
-        "image": "../public/images/michael-gray.jpg"
+        "image": "../public/images/michael-gray.jpg",
+        "clicked": false
     },
     {
         "id": 6,
         "name": "Ada Shelby",
-        "image": "../public/images/ada-shelby.jpg"
+        "image": "../public/images/ada-shelby.jpg",
+        "clicked": false
     },
     {
         "id": 7,
         "name": "Grace Burgess",
-        "image": "../public/images/grace-burgess.jpg"
+        "image": "../public/images/grace-burgess.jpg",
+        "clicked": false
     },
     {
         "id": 8,
         "name": "Chester Campbell",
-        "image": "../public/images/chester-campbell.jpg"
+        "image": "../public/images/chester-campbell.jpg",
+        "clicked": false
     },
     {
         "id": 9,
         "name": "Alfie Solomons",
-        "image": "../public/images/alfie-solomons.jpg"
+        "image": "../public/images/alfie-solomons.jpg",
+        "clicked": false
     },
     {
         "id": 10,
         "name": "Charlie Strong",
-        "image": "../public/images/charlie-strong.png"
+        "image": "../public/images/charlie-strong.png",
+        "clicked": false
     },
     {
         "id": 11,
         "name": "Johnny Dogs",
-        "image": "../public/images/johnny-dogs.jpg"
+        "image": "../public/images/johnny-dogs.jpg",
+        "clicked": false
     },
     {
         "id": 12,
         "name": "Lizzie Starke",
-        "image": "../public/images/lizzie-starke.jpg"
+        "image": "../public/images/lizzie-starke.jpg",
+        "clicked": false
     }
 
 ]
