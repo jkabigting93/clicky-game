@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Tommy Shelby",
+        "image": "../public/images/tommy-shelby.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Arthur Shelby",
+        "image": "../public/images/arthur-shelby.jpg"
+    },
+    {
+        "id": 3,
+        "name": "John Shelby",
+        "image": "../public/images/john-shelby.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Polly Gray",
+        "image": "../public/images/polly-gray.png"
+    },
+    {
+        "id": 5,
+        "name": "Michael Gray",
+        "image": "../public/images/michael-gray.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ada Shelby",
+        "image": "../public/images/ada-shelby.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Grace Burgess",
+        "image": "../public/images/grace-burgess.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Chester Campbell",
+        "image": "../public/images/chester-campbell.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Alfie Solomons",
+        "image": "../public/images/alfie-solomons.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Charlie Strong",
+        "image": "../public/images/charlie-strong.png"
+    },
+    {
+        "id": 11,
+        "name": "Johnny Dogs",
+        "image": "../public/images/johnny-dogs.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Lizzie Starke",
+        "image": "../public/images/lizzie-starke.jpg"
+    }
+
+]
