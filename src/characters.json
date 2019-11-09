@@ -8,67 +8,67 @@
     {
         "id": 2,
         "name": "Arthur Shelby",
-        "image": "../public/images/arthur-shelby.jpg",
+        "image": "./images/arthur-shelby.jpg",
         "clicked": false
     },
     {
         "id": 3,
         "name": "John Shelby",
-        "image": "../public/images/john-shelby.jpg",
+        "image": "./images/john-shelby.jpg",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Polly Gray",
-        "image": "../public/images/polly-gray.png",
+        "image": "./images/polly-gray.png",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Michael Gray",
-        "image": "../public/images/michael-gray.jpg",
+        "image": "./images/michael-gray.jpg",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Ada Shelby",
-        "image": "../public/images/ada-shelby.jpg",
+        "image": "./images/ada-shelby.jpg",
         "clicked": false
     },
     {
         "id": 7,
         "name": "Grace Burgess",
-        "image": "../public/images/grace-burgess.jpg",
+        "image": "./images/grace-burgess.jpg",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Chester Campbell",
-        "image": "../public/images/chester-campbell.jpg",
+        "image": "./images/chester-campbell.jpg",
         "clicked": false
     },
     {
         "id": 9,
         "name": "Alfie Solomons",
-        "image": "../public/images/alfie-solomons.jpg",
+        "image": "./images/alfie-solomons.jpg",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Charlie Strong",
-        "image": "../public/images/charlie-strong.png",
+        "image": "./images/charlie-strong.png",
         "clicked": false
     },
     {
         "id": 11,
         "name": "Johnny Dogs",
-        "image": "../public/images/johnny-dogs.jpg",
+        "image": ".images/johnny-dogs.jpg",
         "clicked": false
     },
     {
         "id": 12,
         "name": "Lizzie Starke",
-        "image": "../public/images/lizzie-starke.jpg",
+        "image": "./images/lizzie-starke.jpg",
         "clicked": false
     }
 
